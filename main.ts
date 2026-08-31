@@ -2,8 +2,8 @@ namespace SpriteKind {
     export const Cake = SpriteKind.create()
 }
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function (sprite3, otherSprite3) {
-    info.changeLifeBy(-1)
-    info.changeScoreBy(15)
+    info.changeLifeBy(-15)
+    info.changeScoreBy(10)
     otherSprite3.destroy()
 })
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Cake, function (sprite, otherSprite) {
