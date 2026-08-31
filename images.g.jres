@@ -1,0 +1,32 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAJAGAAAAAAAAYGlgAAAAAAAAlgZmZmYAAADdbZaZae7u7t0Nlmnd3d3tZpaWaf0R7e6WlpZp/Yjt7paWlpn2gd3ulmaWmdbd3e6WlpaZ9ojd7paWlmn9ge3ulpaWaf0R7e7dDZZp3d3d7d0Nlplp7u7uAABmZmYAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "steve"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAABnAAAAAAAAIH0GAAAAAAAi0gcAAAAAIPLSZwAAAAAiItJnAAAAICIi0ncAAAAiIi/SdwAAICIiItJ3AAAiIi8i0mcA1yIvIiJ9BgB2LSIi0ncGAGDX3d19ZwAAAHZ3d3cGAAAAYHZmBgAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "melon"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAA5AAAAAAAAEDkAAAAAABARA4AAAAAQEREDgBwAABEROQAcHAARNRE5ABwZ0dEXUQOAABmZkRERA4AAHBnRETkAAAAZ2bmROQAAABnd+ZEDgAAAAZnZu4AAAAAAGd2ZgAAAAAAZ2AGAAAAAABgYAYAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "carrot"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAN3d//8AAADQERHu7g8AANAREeHuDwAAHRIR4e7+AAAdERIR7v4A0BERERHu7g/QIREREe7uD9ARERER7u4P0BEhIRHu7g/QEREREe7uD9AREhER7u4PAB0RERHu/gAAHSER4e7+AADQERHh7g8AANAREe7uDwAAAN3d//8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cake"
+    },
+    "image5": {
+        "data": "hwQYABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3d3d3BgAAAAB2dgb3/3dnBgAAAAB3dwb3/3d3ZmZmZmZ3dwb3/3d3d2d3d3dnZgZ3d/d/d3d3Z3dnAAB3d/93d3d3d3dnAAB3d/d/Z3dnd3dnAAD3/3d3d3d3d3dnZgb3/3d3ZmZmZmZ3dwb3/3d3BgAAAAB3dwZ3d2d3BgAAAABndwYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
